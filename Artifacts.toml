@@ -1,0 +1,9 @@
+[[gobject_introspection]]
+arch = "x86_64"
+git-tree-sha1 = "b6cefb8d59a4674abce306b965a52a8e4ec8c2b9"
+libc = "glibc"
+os = "linux"
+
+    [[gobject_introspection.download]]
+    sha256 = "e8b01611c4432a94f362f77b652434c4f0f2322ebd6f94ac2352a01579d5e817"
+    url = "https://github.com/JuliaBinaryWrappers/gobject_introspection_jll.jl/releases/download/gobject_introspection-v1.72.0+0/gobject_introspection.v1.72.0.x86_64-linux-gnu.tar.gz"
