@@ -1,9 +1,9 @@
 [[gobject_introspection]]
 arch = "x86_64"
-git-tree-sha1 = "798efea70b0f8c279ef1ac40d48f8caa72d1375a"
+git-tree-sha1 = "1a24f1542fde4903d914fd8348705edab400c1cb"
 libc = "glibc"
 os = "linux"
 
     [[gobject_introspection.download]]
-    sha256 = "fd9735b098336cf62524325c338cffde7ea073cd294fa7526636809cda6a9318"
-    url = "https://github.com/JuliaBinaryWrappers/gobject_introspection_jll.jl/releases/download/gobject_introspection-v1.74.0+0/gobject_introspection.v1.74.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "fc13aacd14e0b7446bc2ed9a805064905324d37ffab05c3639eb5790d8075a4b"
+    url = "https://github.com/JuliaBinaryWrappers/gobject_introspection_jll.jl/releases/download/gobject_introspection-v1.76.1+0/gobject_introspection.v1.76.1.x86_64-linux-gnu.tar.gz"
